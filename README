@@ -1,0 +1,7 @@
+python-snpp is a library which implements RFC 1861 - Simple Network Paging
+Protocol. It provides two different approaches - one is is snpplib.py, which
+is structured similarly to smtplib from the standard library. The other is 
+Pager.py, which is a more object-oriented convenience wrapper around
+snpplib.
+
+Development information can be found at http://launchpad.net/python-snpp

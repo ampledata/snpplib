@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: python-snpp
+Version: 1.1.2
+Summary: Libraries implementing RFC 1861 - Simple Network Paging Protocol
+Home-page: http://launchpad.net/python-snpp
+Author: Monty Taylor
+Author-email: mordred@inaugust.com
+License: GPL
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 6 - Mature
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

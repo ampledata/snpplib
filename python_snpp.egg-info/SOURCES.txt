@@ -1,0 +1,8 @@
+Pager.py
+README
+setup.py
+snpplib.py
+python_snpp.egg-info/PKG-INFO
+python_snpp.egg-info/SOURCES.txt
+python_snpp.egg-info/dependency_links.txt
+python_snpp.egg-info/top_level.txt
